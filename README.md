@@ -3,5 +3,6 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [Python](./300-400/347-top-k-frequent-elements.py)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Python](./000-100/13-roman-to-integer.py)|Easy|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [Python](./300-400/347-top-k-frequent-elements.py)|Medium|
+
