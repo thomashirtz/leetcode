@@ -3,6 +3,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](0000-0100/2-add-two-numbers.py)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](0000-0100/7-reverse-integer.py)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Python](0000-0100/13-roman-to-integer.py)|Easy|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](0100-0200/179-largest-number.py)|Medium|
