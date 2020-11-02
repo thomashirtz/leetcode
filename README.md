@@ -14,6 +14,7 @@
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](0800-0900/872-leaf-similar-trees.py)|Easy|
 |957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Python](0900-1000/957-prison-cells-after-n-days.py)|Medium|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)| [Python](1300-1400/1304-find-n-unique-integers-sum-up-to-zero.py)|Easy|
+|1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[Python](1300-1400/1366-rank-teams-by-votes.py)|Medium|
 |1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Python](1400-1500/1447-simplified-fractions.py)|Medium|
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|[Python](1400-1500/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py)|Medium|
 
