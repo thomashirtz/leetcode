@@ -6,6 +6,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](0000-0100/1-two-sum.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](0000-0100/2-add-two-numbers.py)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](0000-0100/7-reverse-integer.py)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Python](0000-0100/8-string-to-integer-atoi.py)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Python](0000-0100/13-roman-to-integer.py)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](0000-0100/36-valid-sudoku.py)|Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](0100-0200/179-largest-number.py)|Medium|
