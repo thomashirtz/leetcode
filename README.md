@@ -1,5 +1,6 @@
 # [leetcode](https://leetcode.com/problemset/all/)
 
+Repository containing Python solutions to LeetCode problems.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
