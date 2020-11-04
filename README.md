@@ -1,6 +1,6 @@
 # [leetcode](https://leetcode.com/problemset/all/)
 
-Repository containing Python solutions to LeetCode problems.
+Repository containing Python solutions to LeetCode problems. The focal point of this project is to try to provide solutions as minimalist and as clean as possible. 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
