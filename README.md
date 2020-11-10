@@ -3,26 +3,24 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](0000-0100/1-two-sum.py)|Easy|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](0000-0100/2-add-two-numbers.py)|Medium|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](0000-0100/7-reverse-integer.py)|Easy|
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Python](0000-0100/8-string-to-integer-atoi.py)|Medium|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Python](0000-0100/13-roman-to-integer.py)|Easy|
-|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](0000-0100/36-valid-sudoku.py)|Medium|
-|179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](0100-0200/179-largest-number.py)|Medium|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](0100-0200/189-rotate-array.py)|Medium|
-|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)| [Python](0200-0300/279-perfect-squares.py)|Medium|
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [Python](0300-0400/347-top-k-frequent-elements.py)|Medium|
-|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](0500-0600/509-fibonacci-number.py)|Easy|
-|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](0600-0700/628-maximum-product-of-three-numbers.py)|Easy|
-|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](0800-0900/872-leaf-similar-trees.py)|Easy|
-|957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Python](0900-1000/957-prison-cells-after-n-days.py)|Medium|
-|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)| [Python](1300-1400/1304-find-n-unique-integers-sum-up-to-zero.py)|Easy|
-|1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[Python](1300-1400/1366-rank-teams-by-votes.py)|Medium|
-|1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Python](1400-1500/1447-simplified-fractions.py)|Medium|
-|1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|[Python](1400-1500/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py)|Medium|
-
-
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](solutions/1-two-sum.py)|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](solutions/2-add-two-numbers.py)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](solutions/7-reverse-integer.py)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Python](solutions/8-string-to-integer-atoi.py)|Medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](solutions/13-roman-to-integer.py)|Easy|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](solutions/36-valid-sudoku.py)|Medium|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](solutions/179-largest-number.py)|Medium|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](solutions/189-rotate-array.py)|Medium|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](solutions/279-perfect-squares.py)|Medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](solutions/347-top-k-frequent-elements.py)|Medium|
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](solutions/509-fibonacci-number.py)|Easy|
+|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](solutions/628-maximum-product-of-three-numbers.py)|Easy|
+|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](solutions/872-leaf-similar-trees.py)|Easy|
+|957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Python](solutions/957-prison-cells-after-n-days.py)|Medium|
+|1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python](solutions/1304-find-n-unique-integers-sum-up-to-zero.py)|Easy|
+|1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[Python](solutions/1366-rank-teams-by-votes.py)|Medium|
+|1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Python](solutions/1447-simplified-fractions.py)|Medium|
+|1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|[Python](solutions/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py)|Medium|
 
 ## Dataframe & Git Automation
 

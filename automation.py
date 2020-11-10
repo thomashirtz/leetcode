@@ -23,12 +23,16 @@ df.sort_index(inplace=True)
 df['url'] = df['question_title_slug'].map(lambda slug: f'https://leetcode.com/problems/{slug}/')
 
 
-def get_folder_name(i, n=100):
-    return f'{math.floor(i / n) * n:04d}-{math.ceil(i / n) * n:04d}'
+# def get_folder_name(i, n=100):
+#     return f'{math.floor(i / n) * n:04d}-{math.ceil(i / n) * n:04d}'
+#
+#
+# def get_path(i, slug):
+#     return f'{get_folder_name(i)}/{i}-{slug}.py'
 
 
 def get_path(i, slug):
-    return f'{get_folder_name(i)}/{i}-{slug}.py'
+    return f'solutions/{i}-{slug}.py'
 
 
 def create_file(filepath):
@@ -36,11 +40,12 @@ def create_file(filepath):
     open(filepath, 'a').close()
 
 
-ids = [1, 2]
-create_files = False
+ids = [1]
+create_files = True
 
 for i in ids:
     filepath = get_path(i, df['question_title_slug'][i])
     print(f"|{i}|[{df['question_title'][i]}]({df['url'][i]})|[Python]({filepath})|{df['difficulty'][i]}|")
+    print(f"Add {i}-{df['question_title_slug'][i]}")
     if create_files:
         create_file(filepath)
