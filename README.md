@@ -25,6 +25,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](solutions/941-valid-mountain-array.py)|Easy|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[Python](solutions/944-delete-columns-to-make-sorted.py)|Easy|
 |957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Python](solutions/957-prison-cells-after-n-days.py)|Medium|
+|1195|[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/)|[Python](solutions/1195-fizz-buzz-multithreaded.py)|Medium|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python](solutions/1304-find-n-unique-integers-sum-up-to-zero.py)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](solutions/1342-number-of-steps-to-reduce-a-number-to-zero.py)|Easy|
 |1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/)|[Python](solutions/1366-rank-teams-by-votes.py)|Medium|
