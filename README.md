@@ -25,6 +25,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](solutions/941-valid-mountain-array.py)|Easy|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[Python](solutions/944-delete-columns-to-make-sorted.py)|Easy|
 |957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[Python](solutions/957-prison-cells-after-n-days.py)|Medium|
+|1114|[Print in Order](https://leetcode.com/problems/print-in-order/)|[Python](solutions/1114-print-in-order.py)|Easy|
 |1115|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)|[Python](solutions/1115-print-foobar-alternately.py)|Medium|
 |1116|[Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/)|[Python](solutions/1116-print-zero-even-odd.py)|Medium|
 |1195|[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/)|[Python](solutions/1195-fizz-buzz-multithreaded.py)|Medium|
