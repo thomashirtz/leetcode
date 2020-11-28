@@ -41,6 +41,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Python](solutions/1448-count-good-nodes-in-binary-tree.py)|Medium|
 |1449|[Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/)|[Python](solutions/1449-form-largest-integer-with-digits-that-add-up-to-target.py)|Hard|
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|[Python](solutions/1456-maximum-number-of-vowels-in-a-substring-of-given-length.py)|Medium|
+|1523|[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)|[Python](solutions/1523-count-odd-numbers-in-an-interval-range.py)|Easy|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Python](solutions/1528-shuffle-string.py)|Easy|
 
 ## Dataframe & Git Automation
