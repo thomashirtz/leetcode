@@ -32,6 +32,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |1115|[Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)|[Python](solutions/1115-print-foobar-alternately.py)|Medium|
 |1116|[Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/)|[Python](solutions/1116-print-zero-even-odd.py)|Medium|
 |1195|[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/)|[Python](solutions/1195-fizz-buzz-multithreaded.py)|Medium|
+|1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](solutions/1295-find-numbers-with-even-number-of-digits.py)|Easy|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python](solutions/1304-find-n-unique-integers-sum-up-to-zero.py)|Easy|
 |1309|[Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)|[Python](solutions/1309-decrypt-string-from-alphabet-to-integer-mapping.py)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](solutions/1342-number-of-steps-to-reduce-a-number-to-zero.py)|Easy|
