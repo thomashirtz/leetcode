@@ -12,6 +12,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](solutions/11-container-with-most-water.py)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](solutions/13-roman-to-integer.py)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](solutions/14-longest-common-prefix.py)|Easy|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](solutions/17-letter-combinations-of-a-phone-number.py)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](solutions/28-implement-strstr.py)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](solutions/36-valid-sudoku.py)|Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](solutions/179-largest-number.py)|Medium|
