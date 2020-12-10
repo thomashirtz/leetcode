@@ -20,6 +20,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](solutions/121-best-time-to-buy-and-sell-stock.py)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](solutions/122-best-time-to-buy-and-sell-stock-ii.py)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](solutions/136-single-number.py)|Easy|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](solutions/155-min-stack.py)|Easy|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](solutions/179-largest-number.py)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](solutions/189-rotate-array.py)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](solutions/279-perfect-squares.py)|Medium|
