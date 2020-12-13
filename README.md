@@ -25,6 +25,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](solutions/189-rotate-array.py)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](solutions/202-happy-number.py)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](solutions/279-perfect-squares.py)|Medium|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](solutions/322-coin-change.py)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](solutions/347-top-k-frequent-elements.py)|Medium|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[Python](solutions/405-convert-a-number-to-hexadecimal.py)|Easy|
 |478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[Python](solutions/478-generate-random-point-in-a-circle.py)|Medium|
