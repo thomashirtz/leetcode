@@ -6,6 +6,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](solutions/1-two-sum.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](solutions/2-add-two-numbers.py)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](solutions/3-longest-substring-without-repeating-characters.py)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](solutions/4-median-of-two-sorted-arrays.py)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](solutions/5-longest-palindromic-substring.py)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](solutions/7-reverse-integer.py)|Easy|
