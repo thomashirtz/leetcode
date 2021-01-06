@@ -9,6 +9,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Python](solutions/3-longest-substring-without-repeating-characters.py)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](solutions/4-median-of-two-sorted-arrays.py)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](solutions/5-longest-palindromic-substring.py)|Medium|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Python](solutions/6-zigzag-conversion.py)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python](solutions/7-reverse-integer.py)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Python](solutions/8-string-to-integer-atoi.py)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](solutions/9-palindrome-number.py)|Easy|
