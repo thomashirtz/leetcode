@@ -15,6 +15,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](solutions/9-palindrome-number.py)|Easy|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Python](solutions/10-regular-expression-matching.py)|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](solutions/11-container-with-most-water.py)|Medium|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Python](solutions/12-integer-to-roman.py)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](solutions/13-roman-to-integer.py)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](solutions/14-longest-common-prefix.py)|Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](solutions/17-letter-combinations-of-a-phone-number.py)|Medium|
