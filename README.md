@@ -20,6 +20,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Python](solutions/14-longest-common-prefix.py)|Easy|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Python](solutions/16-3sum-closest.py)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](solutions/17-letter-combinations-of-a-phone-number.py)|Medium|
+|18|[4Sum](https://leetcode.com/problems/4sum/)|[Python](solutions/18-4sum.py)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](solutions/19-remove-nth-node-from-end-of-list.py)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](solutions/28-implement-strstr.py)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](solutions/36-valid-sudoku.py)|Medium|
