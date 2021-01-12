@@ -22,6 +22,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Python](solutions/17-letter-combinations-of-a-phone-number.py)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[Python](solutions/18-4sum.py)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](solutions/19-remove-nth-node-from-end-of-list.py)|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](solutions/23-merge-k-sorted-lists.py)|Hard|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](solutions/28-implement-strstr.py)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](solutions/36-valid-sudoku.py)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](solutions/78-subsets.py)|Medium|
