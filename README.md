@@ -28,6 +28,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](solutions/26-remove-duplicates-from-sorted-array.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](solutions/27-remove-element.py)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](solutions/28-implement-strstr.py)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](solutions/29-divide-two-integers.py)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](solutions/36-valid-sudoku.py)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](solutions/78-subsets.py)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](solutions/104-maximum-depth-of-binary-tree.py)|Easy|
