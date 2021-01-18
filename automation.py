@@ -33,7 +33,7 @@ def get_row(df, i):
 
 
 def get_commit_summary(df, i):
-    return f"\nAdd {i}-{df['question_title_slug'][i]}"
+    return f"Add {i}-{df['question_title_slug'][i]}"
 
 
 def update_readme(source, destination, rows, placeholder='$PLACEHOLDER$'):
@@ -64,3 +64,4 @@ if __name__ == "__main__":
 
     print(get_row(df, ids[-1]))
     print(get_commit_summary(df, ids[-1]))
+    pd.Series([get_commit_summary(df, ids[-1])]).to_clipboard(index=False, header=False)
