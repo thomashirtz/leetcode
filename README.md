@@ -24,6 +24,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Python](solutions/19-remove-nth-node-from-end-of-list.py)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](solutions/20-valid-parentheses.py)|Easy|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](solutions/23-merge-k-sorted-lists.py)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Python](solutions/24-swap-nodes-in-pairs.py)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](solutions/25-reverse-nodes-in-k-group.py)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](solutions/26-remove-duplicates-from-sorted-array.py)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](solutions/27-remove-element.py)|Easy|
