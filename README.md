@@ -31,6 +31,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](solutions/28-implement-strstr.py)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](solutions/29-divide-two-integers.py)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](solutions/36-valid-sudoku.py)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](solutions/39-combination-sum.py)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](solutions/78-subsets.py)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](solutions/104-maximum-depth-of-binary-tree.py)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](solutions/121-best-time-to-buy-and-sell-stock.py)|Easy|
