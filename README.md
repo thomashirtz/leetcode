@@ -33,6 +33,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](solutions/36-valid-sudoku.py)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](solutions/39-combination-sum.py)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](solutions/45-jump-game-ii.py)|Hard|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](solutions/76-minimum-window-substring.py)|Hard|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](solutions/78-subsets.py)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](solutions/104-maximum-depth-of-binary-tree.py)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](solutions/121-best-time-to-buy-and-sell-stock.py)|Easy|
