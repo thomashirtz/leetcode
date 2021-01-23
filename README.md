@@ -30,6 +30,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](solutions/27-remove-element.py)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Python](solutions/28-implement-strstr.py)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](solutions/29-divide-two-integers.py)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](solutions/33-search-in-rotated-sorted-array.py)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](solutions/35-search-insert-position.py)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](solutions/36-valid-sudoku.py)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](solutions/39-combination-sum.py)|Medium|
