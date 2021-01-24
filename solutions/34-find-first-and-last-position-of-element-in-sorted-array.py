@@ -1,7 +1,5 @@
 class Solution:
     def searchRange(self, nums, target):
-        if not nums:
-            return [-1, -1]
 
         def search_left(nums, target):
             left, right = 0, len(nums) - 1
@@ -22,5 +20,8 @@ class Solution:
                 else:
                     left = middle
             return left if nums[left] == target else -1
+
+        if not nums:
+            return [-1, -1]
 
         return [search_left(nums, target), search_right(nums, target)]
