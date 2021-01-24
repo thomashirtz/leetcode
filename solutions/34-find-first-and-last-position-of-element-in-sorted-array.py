@@ -1,5 +1,7 @@
 class Solution:
     def searchRange(self, nums, target):
+        if not nums:
+            return [-1, -1]
 
         def search_left(nums, target):
             left, right = 0, len(nums) - 1
