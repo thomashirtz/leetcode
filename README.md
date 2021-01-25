@@ -34,6 +34,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](solutions/34-find-first-and-last-position-of-element-in-sorted-array.py)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](solutions/35-search-insert-position.py)|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](solutions/36-valid-sudoku.py)|Medium|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Python](solutions/38-count-and-say.py)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](solutions/39-combination-sum.py)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](solutions/45-jump-game-ii.py)|Hard|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](solutions/76-minimum-window-substring.py)|Hard|
