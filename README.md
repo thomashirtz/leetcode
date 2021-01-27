@@ -36,6 +36,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Python](solutions/36-valid-sudoku.py)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Python](solutions/38-count-and-say.py)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](solutions/39-combination-sum.py)|Medium|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](solutions/41-first-missing-positive.py)|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](solutions/45-jump-game-ii.py)|Hard|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](solutions/76-minimum-window-substring.py)|Hard|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](solutions/78-subsets.py)|Medium|
