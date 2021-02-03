@@ -40,6 +40,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](solutions/42-trapping-rain-water.py)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Python](solutions/43-multiply-strings.py)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](solutions/45-jump-game-ii.py)|Hard|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](solutions/48-rotate-image.py)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](solutions/76-minimum-window-substring.py)|Hard|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](solutions/78-subsets.py)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](solutions/104-maximum-depth-of-binary-tree.py)|Easy|
