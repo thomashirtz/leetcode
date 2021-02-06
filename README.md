@@ -42,6 +42,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](solutions/45-jump-game-ii.py)|Hard|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](solutions/48-rotate-image.py)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](solutions/53-maximum-subarray.py)|Easy|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](solutions/54-spiral-matrix.py)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](solutions/76-minimum-window-substring.py)|Hard|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](solutions/78-subsets.py)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](solutions/104-maximum-depth-of-binary-tree.py)|Easy|
