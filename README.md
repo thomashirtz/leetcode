@@ -54,6 +54,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](solutions/179-largest-number.py)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](solutions/189-rotate-array.py)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](solutions/202-happy-number.py)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Python](solutions/226-invert-binary-tree.py)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](solutions/279-perfect-squares.py)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Python](solutions/322-coin-change.py)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](solutions/347-top-k-frequent-elements.py)|Medium|
