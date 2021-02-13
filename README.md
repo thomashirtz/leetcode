@@ -43,6 +43,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](solutions/48-rotate-image.py)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](solutions/53-maximum-subarray.py)|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](solutions/54-spiral-matrix.py)|Medium|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](solutions/56-merge-intervals.py)|Medium|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](solutions/64-minimum-path-sum.py)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](solutions/66-plus-one.py)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](solutions/70-climbing-stairs.py)|Easy|
