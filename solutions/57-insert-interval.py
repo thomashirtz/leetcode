@@ -12,5 +12,5 @@ class Solution:
         if merge:
             print(merge)
             start = min(start, merge[0][0])
-            end = max(sum(merge, [end]))
+            end = max([end] + [i[1] for i in merge])
         return left + [[start, end]] + right
