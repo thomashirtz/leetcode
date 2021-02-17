@@ -49,6 +49,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](solutions/58-length-of-last-word.py)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](solutions/64-minimum-path-sum.py)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](solutions/66-plus-one.py)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](solutions/67-add-binary.py)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](solutions/70-climbing-stairs.py)|Easy|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](solutions/76-minimum-window-substring.py)|Hard|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](solutions/78-subsets.py)|Medium|
