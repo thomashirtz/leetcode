@@ -58,6 +58,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](solutions/122-best-time-to-buy-and-sell-stock-ii.py)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](solutions/136-single-number.py)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Python](solutions/155-min-stack.py)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Python](solutions/169-majority-element.py)|Easy|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](solutions/179-largest-number.py)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](solutions/189-rotate-array.py)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Python](solutions/202-happy-number.py)|Easy|
