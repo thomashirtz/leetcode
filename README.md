@@ -74,6 +74,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](solutions/344-reverse-string.py)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Python](solutions/347-top-k-frequent-elements.py)|Medium|
 |405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[Python](solutions/405-convert-a-number-to-hexadecimal.py)|Easy|
+|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Python](solutions/406-queue-reconstruction-by-height.py)|Medium|
 |478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[Python](solutions/478-generate-random-point-in-a-circle.py)|Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](solutions/509-fibonacci-number.py)|Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](solutions/628-maximum-product-of-three-numbers.py)|Easy|
