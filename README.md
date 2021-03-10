@@ -39,7 +39,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Python](solutions/41-first-missing-positive.py)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](solutions/42-trapping-rain-water.py)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Python](solutions/43-multiply-strings.py)|Medium|
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](solutions/45-jump-game-ii.py)|Hard|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Python](solutions/45-jump-game-ii.py)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](solutions/48-rotate-image.py)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](solutions/53-maximum-subarray.py)|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Python](solutions/54-spiral-matrix.py)|Medium|
@@ -78,6 +78,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[Python](solutions/478-generate-random-point-in-a-circle.py)|Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Python](solutions/509-fibonacci-number.py)|Easy|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Python](solutions/516-longest-palindromic-subsequence.py)|Medium|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](solutions/581-shortest-unsorted-continuous-subarray.py)|Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](solutions/628-maximum-product-of-three-numbers.py)|Easy|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Python](solutions/659-split-array-into-consecutive-subsequences.py)|Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](solutions/709-to-lower-case.py)|Easy|
