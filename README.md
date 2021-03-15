@@ -80,6 +80,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Python](solutions/516-longest-palindromic-subsequence.py)|Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Python](solutions/581-shortest-unsorted-continuous-subarray.py)|Medium|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](solutions/617-merge-two-binary-trees.py)|Easy|
+|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python](solutions/621-task-scheduler.py)|Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[Python](solutions/628-maximum-product-of-three-numbers.py)|Easy|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)|[Python](solutions/659-split-array-into-consecutive-subsequences.py)|Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](solutions/709-to-lower-case.py)|Easy|
