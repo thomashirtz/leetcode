@@ -94,6 +94,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[Python](solutions/783-minimum-distance-between-bst-nodes.py)|Easy|
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/)|[Python](solutions/817-linked-list-components.py)|Medium|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](solutions/819-most-common-word.py)|Easy|
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Python](solutions/840-magic-squares-in-grid.py)|Medium|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](solutions/872-leaf-similar-trees.py)|Easy|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](solutions/875-koko-eating-bananas.py)|Medium|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](solutions/941-valid-mountain-array.py)|Easy|
