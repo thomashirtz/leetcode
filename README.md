@@ -96,6 +96,7 @@ Repository containing Python solutions to LeetCode problems. The focal point of 
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](solutions/819-most-common-word.py)|Easy|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Python](solutions/840-magic-squares-in-grid.py)|Medium|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Python](solutions/841-keys-and-rooms.py)|Medium|
+|842|[Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)|[Python](solutions/842-split-array-into-fibonacci-sequence.py)|Medium|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Python](solutions/872-leaf-similar-trees.py)|Easy|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Python](solutions/875-koko-eating-bananas.py)|Medium|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](solutions/941-valid-mountain-array.py)|Easy|
